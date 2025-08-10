@@ -8,7 +8,7 @@ This repo contains my beginner-friendly Python challenges I'm solving to improve
 4)['spiral_matrix.py'](https://github.com/Aditya0314/phython--challenges/blob/main/spiral_matrix.py)-prints a n x n spiral matrix block for given n
 ## 🛠 Tools & Versions
 - Python 3.13.5
-- Github
+- Git & Github
 
 ## 🚀 Goal
 Build strong python logic and version control skills by solving small daily challenges
