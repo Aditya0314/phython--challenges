@@ -1,0 +1,12 @@
+i=1
+while i<=5:
+   spaces = ' ' *(5-i)
+   stars=  '*' * ( 2*i-1)
+   if i==1:
+      print("\033[31m",spaces +stars,"\033[0m")
+   else:
+      print("\033[32m",spaces +stars,"\033[0m")
+   i+=1
+print(' ' * 4 + "\033[34m"+ " | " + "\033[0m")
+
+print(' ' * 4 + "\033[33m"+ "Aditya" + "\033[0m")
