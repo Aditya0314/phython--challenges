@@ -12,6 +12,8 @@ This repo contains my beginner-friendly Python challenges I'm solving to improve
 
 5)['Christmas_Tree.py'](https://github.com/Aditya0314/phython--challenges/blob/main/christmas_tree.py)-Prints a christmas tree
 
+6)['Number_Guesser.py'](https://github.com/Aditya0314/phython--challenges/blob/main/Number_guesser.py.py)-A fun number guessing game 
+
 ## 🛠 Tools & Versions
 - Python 3.13.5
 - Git & Github
